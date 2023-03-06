@@ -1,0 +1,7 @@
+C:\Users\Good User\source\repos\RecordsServiceWCF\RecordsServiceWCF\bin\Debug\RecordsServiceWCF.dll.config
+C:\Users\Good User\source\repos\RecordsServiceWCF\RecordsServiceWCF\bin\Debug\RecordsServiceWCF.dll
+C:\Users\Good User\source\repos\RecordsServiceWCF\RecordsServiceWCF\bin\Debug\RecordsServiceWCF.pdb
+C:\Users\Good User\source\repos\RecordsServiceWCF\RecordsServiceWCF\obj\Debug\RecordsServiceWCF.csproj.AssemblyReference.cache
+C:\Users\Good User\source\repos\RecordsServiceWCF\RecordsServiceWCF\obj\Debug\RecordsServiceWCF.csproj.CoreCompileInputs.cache
+C:\Users\Good User\source\repos\RecordsServiceWCF\RecordsServiceWCF\obj\Debug\RecordsServiceWCF.dll
+C:\Users\Good User\source\repos\RecordsServiceWCF\RecordsServiceWCF\obj\Debug\RecordsServiceWCF.pdb

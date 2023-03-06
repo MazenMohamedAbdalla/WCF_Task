@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordsServiceWCF", "RecordsServiceWCF\RecordsServiceWCF.csproj", "{28939B20-879C-427A-85EE-580CD1BD706F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecordsWebHost", "WcfService1\RecordsWebHost.csproj", "{981B4DB1-EA49-44DF-B7B1-A34F7580118E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28939B20-879C-427A-85EE-580CD1BD706F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28939B20-879C-427A-85EE-580CD1BD706F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28939B20-879C-427A-85EE-580CD1BD706F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28939B20-879C-427A-85EE-580CD1BD706F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{981B4DB1-EA49-44DF-B7B1-A34F7580118E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{981B4DB1-EA49-44DF-B7B1-A34F7580118E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{981B4DB1-EA49-44DF-B7B1-A34F7580118E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{981B4DB1-EA49-44DF-B7B1-A34F7580118E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC739E03-4088-41ED-AA69-B0A9BF579675}
+	EndGlobalSection
+EndGlobal
